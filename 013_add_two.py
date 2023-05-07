@@ -6,9 +6,6 @@ from lib.helpers import check_that_these_are_equal
 #
 # @TASK: Write a function called `add_two` that:
 
-def add_two(num):
-    return num + 2
-
 #
 # * Takes a number as input
 # * Adds two to it
@@ -16,7 +13,8 @@ def add_two(num):
 
 # YOUR FUNCTION GOES BELOW THIS LINE
 
-
+def add_two(num):
+    return num + 2
 
 # YOUR FUNCTION GOES ABOVE THIS LINE
 
